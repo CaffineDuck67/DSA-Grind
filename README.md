@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/CaffineDuck67/DSA-Grind/tree/master/1929-concatenation-of-array) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/CaffineDuck67/DSA-Grind/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
